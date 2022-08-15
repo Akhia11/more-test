@@ -1,0 +1,52 @@
+{
+	"songs": [
+		[
+			"devils gambit",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bad time",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"despair",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideNightmare": false,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"hideBonus": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,61 @@
+{
+	"songs": [
+		[
+			"Whoopee",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sansational",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Final Stretch",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Burning In Hell",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+    "hideBonus": true,
+	"hideNightmare": true,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"sans",
+		"fun",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

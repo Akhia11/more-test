@@ -1,0 +1,70 @@
+{
+	"songs": [
+		[
+			"static funkin",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ritual",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"freaky machine",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bonedoggle",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bad to the bone",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideNightmare": true,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"hideBonus": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
